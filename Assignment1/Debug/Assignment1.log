@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\black\source\repos\Asignment 5\Entity.h(142,58): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\black\source\repos\Asignment 5\Entity.h(178,58): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\black\source\repos\Asignment 5\main.cpp(152,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Assignment1.vcxproj -> C:\Users\black\source\repos\Asignment 5\Debug\Assignment1.exe
